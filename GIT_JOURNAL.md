@@ -1,0 +1,1 @@
+Through this Git lab, I learned how to manage branches, create pull requests, and resolve merge conflicts. I fixed merge and branch push mistakes using 'git rebase' and 'git status'. The command that saved me was 'git log --oneline' to track my work.
